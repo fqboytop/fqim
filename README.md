@@ -1,3 +1,3 @@
 # fqim
 
-http://www.fqboy.top/ 的私有图床
+http://www.fqboy.top/ 的私有网盘
